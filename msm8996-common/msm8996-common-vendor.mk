@@ -65,8 +65,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8996-common/proprietary/lib/extractors/libmmparser.so:system/lib/extractors/libmmparser.so \
     vendor/xiaomi/msm8996-common/proprietary/lib/libFileMux.so:system/lib/libFileMux.so \
     vendor/xiaomi/msm8996-common/proprietary/lib/libOmxMux.so:system/lib/libOmxMux.so \
-    vendor/xiaomi/msm8996-common/proprietary/lib/libaptXHD_encoder.so:system/lib/libaptXHD_encoder.so \
-    vendor/xiaomi/msm8996-common/proprietary/lib/libaptX_encoder.so:system/lib/libaptX_encoder.so \
     vendor/xiaomi/msm8996-common/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
     vendor/xiaomi/msm8996-common/proprietary/lib/libmmparser_lite.so:system/lib/libmmparser_lite.so \
     vendor/xiaomi/msm8996-common/proprietary/lib/libmmrtpdecoder.so:system/lib/libmmrtpdecoder.so \
