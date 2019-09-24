@@ -27,13 +27,13 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/gemini/proprietary/etc/sensors/sensor_def_qcomdev.conf:system/etc/sensors/sensor_def_qcomdev.conf \
     vendor/xiaomi/gemini/proprietary/vendor/etc/silence_short.wav:$(TARGET_COPY_OUT_VENDOR)/etc/silence_short.wav \
     vendor/xiaomi/gemini/proprietary/vendor/lib64/hw/fingerprint.fpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.fpc.so \
-    vendor/xiaomi/gemini/proprietary/vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb \
-    vendor/xiaomi/gemini/proprietary/vendor/etc/acdbdata/Forte/Forte_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte/Forte_General_cal.acdb \
-    vendor/xiaomi/gemini/proprietary/vendor/etc/acdbdata/Forte/Forte_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte/Forte_Global_cal.acdb \
-    vendor/xiaomi/gemini/proprietary/vendor/etc/acdbdata/Forte/Forte_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte/Forte_Handset_cal.acdb \
-    vendor/xiaomi/gemini/proprietary/vendor/etc/acdbdata/Forte/Forte_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte/Forte_Hdmi_cal.acdb \
-    vendor/xiaomi/gemini/proprietary/vendor/etc/acdbdata/Forte/Forte_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte/Forte_Headset_cal.acdb \
-    vendor/xiaomi/gemini/proprietary/vendor/etc/acdbdata/Forte/Forte_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte/Forte_Speaker_cal.acdb \
+    vendor/xiaomi/gemini/proprietary/vendor/etc/acdbdata/Forte_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte_Bluetooth_cal.acdb \
+    vendor/xiaomi/gemini/proprietary/vendor/etc/acdbdata/Forte_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte_General_cal.acdb \
+    vendor/xiaomi/gemini/proprietary/vendor/etc/acdbdata/Forte_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte_Global_cal.acdb \
+    vendor/xiaomi/gemini/proprietary/vendor/etc/acdbdata/Forte_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte_Handset_cal.acdb \
+    vendor/xiaomi/gemini/proprietary/vendor/etc/acdbdata/Forte_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte_Hdmi_cal.acdb \
+    vendor/xiaomi/gemini/proprietary/vendor/etc/acdbdata/Forte_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte_Headset_cal.acdb \
+    vendor/xiaomi/gemini/proprietary/vendor/etc/acdbdata/Forte_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte_Speaker_cal.acdb \
     vendor/xiaomi/gemini/proprietary/vendor/etc/acdbdata/adsp_avs_config.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/adsp_avs_config.acdb \
     vendor/xiaomi/gemini/proprietary/vendor/etc/qdcm_calib_data_jdi_fhd_cmd_incell_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_jdi_fhd_cmd_incell_dsi_panel.xml \
     vendor/xiaomi/gemini/proprietary/vendor/etc/qdcm_calib_data_jdi_j1_fhd_cmd_incell_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_jdi_j1_fhd_cmd_incell_dsi_panel.xml \
